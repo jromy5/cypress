@@ -120,7 +120,7 @@
     "request-promise": "4.2.4",
     "return-deep-diff": "0.3.0",
     "sanitize-filename": "1.6.3",
-    "semver": "6.3.0",
+    "semver": "6.3.1",
     "send": "0.17.0",
     "shell-env": "3.0.0",
     "signal-exit": "3.0.2",
